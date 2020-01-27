@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"module": "none",
+		"removeComments": true,
+		"outFile": "connectmoon-sdk-js.js",
+		"sourceMap": true,
+		"declaration": true
+	},
+	"include": [
+		"*.ts"
+	],
+	"exclude": [
+		"*.d.ts"
+	]
+}

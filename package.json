@@ -1,0 +1,13 @@
+{
+	"name": "connectmoon-sdk-js",
+	"version": "1.0.0",
+	"author": "Nicolae Carabut",
+	"license": "https://github.com/codemodify/TheFreeLicense",
+	"devDependencies": {
+		"typescript": "*"
+	},
+	"scripts": {
+		"compile": "./node_modules/.bin/tsc",
+		"build": "npm run compile"
+	}
+}
